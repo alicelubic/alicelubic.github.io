@@ -3,7 +3,7 @@ title: minimaList
 layout: default
 modal-id: 6
 date: 2016-07-20
-img: submarine.png
+img: screenshot3.png
 alt: image-alt
 project-date: July 2016
 client: Start Bootstrap
